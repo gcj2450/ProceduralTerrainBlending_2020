@@ -23,15 +23,15 @@ public class GameStarter : MonoBehaviour
         
     }
 
-	public void ToggleTrees(bool state)
-	{
-		WorldParameters.renderTrees = state;
-	}
+	//public void ToggleTrees(bool state)
+	//{
+	//	WorldParameters.renderTrees = state;
+	//}
 
-	public void ToggleTerrainDetails(bool state)
-	{
-		WorldParameters.renderDetails = state;
-	}
+	//public void ToggleTerrainDetails(bool state)
+	//{
+	//	WorldParameters.renderDetails = state;
+	//}
 
 	public void ToggleCreateRoads(bool state)
 	{
